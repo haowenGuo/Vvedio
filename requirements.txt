@@ -1,0 +1,16 @@
+beautifulsoup4==4.12.3
+Flask==3.0.3
+Flask_Cors==4.0.1
+ghapi==1.0.5
+moviepy==1.0.3
+nox==2024.4.15
+numpy==2.0.1
+openai==1.37.0
+opencv_python==4.9.0.80
+Pillow==9.5.0
+Pillow==10.4.0
+pytest==8.3.1
+python_pptx_interface==0.0.12
+rich==13.7.1
+setuptools==68.2.2
+torch==2.2.1+cu121
