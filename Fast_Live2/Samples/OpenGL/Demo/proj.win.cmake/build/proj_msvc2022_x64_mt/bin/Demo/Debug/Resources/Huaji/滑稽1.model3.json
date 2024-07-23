@@ -1,0 +1,17 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "滑稽1.moc3",
+		"Textures": [
+			"滑稽1.4096/texture_00.png"
+		],
+		"DisplayInfo": "滑稽1.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
